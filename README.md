@@ -17,7 +17,7 @@ I’m currently pursuing a Master's degree in Data Science at Open University of
 * Report generation with Markdown tools and other word processors.
 
 ## 📚 Projects
-Take a look at my portfolio [TBD]
+Take a look at my [portfolio](https://github.com/avidiella/portfolio) [TBD]
 
 ## 🔍 Where can you find me?
 If you want to know more about me, check my [LinkedIn](https://www.linkedin.com/in/annavidiella/) profile.</br>

@@ -21,4 +21,4 @@ Take a look at my [portfolio](https://github.com/avidiella/portfolio) [TBD]
 
 ## 🔍 Where can you find me?
 If you want to know more about me, check my [LinkedIn](https://www.linkedin.com/in/annavidiella/) profile.</br>
-Find more of my work on [Tableau](https://public.tableau.com/app/profile/anna.vidiella/vizzes) and [Kaggle](https://www.kaggle.com/annavidiella)!
+Find more of my work on [Tableau](https://public.tableau.com/app/profile/anna.vidiella/vizzes), [Infogram](https://infogram.com/anna_vidiella7) and [Kaggle](https://www.kaggle.com/annavidiella)!

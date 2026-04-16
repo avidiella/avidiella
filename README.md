@@ -1,7 +1,6 @@
 # About me
 
-Hi and welcome! 😊 </br> My name is Anna, and I am a B.Sc. in Psychology and M.Sc. in Research in Behavior and Cognition.</br>
-I’m currently pursuing a Master's degree in Data Science at Open University of Catalonia.
+Hi and welcome! 😊 </br> My name is Anna, and I am a B.Sc. in Psychology, M.Sc. in Research in Behavior and Cognition and M.Sc. In Data Science.</br>
 
 ## 💭 What are my interests? 
 🐒 Research in primate behavior, conservation and welfare.</br>
@@ -15,9 +14,15 @@ I’m currently pursuing a Master's degree in Data Science at Open University of
 * Statistical analysis in R, Python and SPSS.
 * Data visualization with Python, R, Tableau and spreadsheets.
 * Report generation with Markdown tools and other word processors.
+* Machine Learning and Deep Learning model development and evaluation with Python.
+* Natural language processing (NLP) for text analysis and annotation.
 
 ## 📚 Projects
-Take a look at my [portfolio](https://github.com/avidiella/portfolio) [TBD]
+🧠 [Check my master's thesis](https://github.com/avidiella/synthetic-mri-segmentation), I generated sythetic MRI scans and trained a U-net for segmentation on real MRI.</br>
+🗣️ [My NLP projects!](https://github.com/avidiella/nlp) I trained a NER model with multiNERD, also worked on an Automatic Translation Project for legal texts as a small university project.</br>
+📈 [Take a look at some data visualization and data journalism projects](https://github.com/avidiella/data-visualization-UOC) I really enjoyed doing.</br>
+💻 I have a repository with miscellaneous data science projects using Python, R and SQL. Take a look at my [portfolio](https://github.com/avidiella/portfolio)!
+
 
 ## 🔍 Where can you find me?
 If you want to know more about me, check my [LinkedIn](https://www.linkedin.com/in/annavidiella/) profile.</br>

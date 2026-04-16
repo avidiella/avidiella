@@ -1,6 +1,6 @@
 # About me
 
-Hi and welcome! 😊 </br> My name is Anna, and I am a B.Sc. in Psychology, M.Sc. in Research in Behavior and Cognition and M.Sc. In Data Science.</br>
+Hi and welcome! 😊 </br> My name is Anna, and I am a B.Sc. in Psychology, M.Sc. in Research in Behavior and Cognition, and M.Sc. in Data Science.</br>
 
 ## 💭 What are my interests? 
 🐒 Research in primate behavior, conservation and welfare.</br>
